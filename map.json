@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"phq-adventure.json"
+         "target":"map.json"
         }
     },
  "height":40,
